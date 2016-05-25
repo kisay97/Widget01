@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string-array name="androids">
+        <item>Ice Cream Sandwich</item>
+        <item>Jelly Bean</item>
+        <item>KitKat</item>
+        <item>LollyPop</item>
+        <item>Marshmallow</item>
+        <item>Nutella</item>
+    </string-array>
+</resources>
